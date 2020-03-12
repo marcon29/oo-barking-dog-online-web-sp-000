@@ -6,4 +6,8 @@ class Dog
   def name
     @inst_dog_name
   end
+
+  def bark
+    puts "Woof!"
+  end
 end
